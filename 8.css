@@ -170,7 +170,6 @@ body {
     font-size: 24px;
 }
 
-/* Chấm tròn dưới banner */
 .dots {
     text-align: center;
     margin-top: 10px;
@@ -187,5 +186,5 @@ body {
 }
 
 .dot.active {
-    background-color: #ff7f00; /* Màu chấm đang được chọn */
+    background-color: #ff7f00;
 }
